@@ -1,0 +1,9 @@
+body {
+  background: url(/public/img/pexels-pixabay-355872.jpg);
+  background-size: cover;
+}
+.bg {
+  background-image: url(/public/img/pexels-pixabay-355872.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
